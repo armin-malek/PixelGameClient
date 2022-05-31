@@ -25,20 +25,6 @@
       </router-link>
     </div>
 
-    <div class="develop">
-      <img src="img/navid.jpg" alt="">
-      <div class="details">
-        <h2>نوید حاتمی</h2>
-        <p style="    margin-bottom: 0;
-    font-size: 0.69rem;
-    text-align: justify;">دغده‌ی اصلی او گذار از روش های منسوخ و سنتی حاکم بر آموزش در مدارس و آموزش علوم مختلف با روش
-          های جذاب می‌باشد
-          تا مخاطب از فرآیند آموزش لذت برده و مفاهیم در ناخودآگاه ذهن وی هک شود. و در این زمینه در تلاش برای به روز کردن
-          خود و کشف روش های بدیع و نو می‌باشد.</p>
-        <a href="https://instagram.com/navid.hatami97" target="_blank">اینستاگرام: navid.hatami97</a>
-      </div>
-
-    </div>
 
   </div>
 </template>
